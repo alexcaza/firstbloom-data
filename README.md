@@ -12,7 +12,7 @@ Since the app shut-down officially in January 2021, I've been sitting on these d
 ## What was Firstbloom?
 Firstbloom started late 2017 as a way for specialty coffee lovers to leave reviews on coffees they were drinking. It was my attempt at a [Vivino](https://www.vivino.com/)/[Untappd](https://untappd.com/) but for coffee geeks.
 
-After it launched early 2018, and up until it shutdown in Jan 2021, it gained a few thousand users, but ultimately wasn't growing quite as I had hoped. There were attempted by my co-founder and I to pivot and turn this into a different kind of business, but it ended up burning me out pretty badly, which led to me shutting down the app.
+After it launched early 2018, and up until it shutdown in Jan 2021, it gained a few thousand users, but ultimately wasn't growing quite as I had hoped. There were attempts by my co-founder and I to pivot and turn Firstbloom into a different kind of business, but it ended up burning me out pretty badly, which led to me shutting down the app.
 
 All wasn't lost, however, as these data have already been used in a book (The Physics of Filter Coffee by [Jonathan Gagné](https://coffeeadastra.com/)), and is--to my knowledge--still the largest consumer specialty coffee data set out there. Hopefully it can continue to be used to inspire new projects!
 
