@@ -1,8 +1,8 @@
 # Firstbloom Data
 
 **Table of contents**
-- [What is this?](#what-is-this%3F)
-- [What was Firstbloom?](#what-was-firstbloom%3F)
+- [What is this?](#what-is-this)
+- [What was Firstbloom?](#what-was-firstbloom)
 
 ## What is this?
 This is a collection of coffee data built while Firstbloom was operational. It contains CSVs of the interesting/important data around which coffees a roaster had, the varieties the coffee contained, the tasting notes of those coffees and where they were sourced from in the world.
