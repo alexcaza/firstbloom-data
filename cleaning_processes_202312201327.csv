@@ -1,0 +1,137 @@
+﻿"id","created_at","updated_at","label","description","short_description"
+8,2017-09-20 01:49:55.281,2017-09-20 01:49:55.281,Unspecified,,
+9,2017-09-21 14:05:37.723,2017-09-21 14:05:37.723,Double Fermentation,,
+53,2019-11-17 03:35:28.706,2019-11-17 03:35:28.706,Perla Negra,,
+15,2018-08-30 19:01:38.934,2018-08-30 19:01:38.934,Hybrid,,
+54,2019-12-27 23:53:11.927,2019-12-27 23:53:11.927,Yeast Fermented Natural,,
+55,2020-01-13 17:49:03.199,2020-01-13 17:49:03.199,Reposado,,
+56,2020-01-14 18:14:11.643,2020-01-14 18:14:11.643,Sheka Fermentation,,
+57,2020-01-16 20:02:06.361,2020-01-16 20:02:06.361,Wet Hulled Honey,,
+1,2017-09-19 00:17:24.613,2020-04-30 19:07:44.153,Wet/Washed,"The washed process is commonly found in most of the world's coffee producing regions. Also known as wet process, it offers a consistent solution for processing coffee cherries. The washed process is separated into 3 main stages (rinsing, depulping, fermentation), as well as one or several stages of washing. In the cup, washed coffees are prized for their clarity in flavour.
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once collected, the coffee is rinsed, and the farmer performs a first quality check. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects. Following this step, the whole coffee fruit is put through a depulper. A depulper separates the seed of the fruit (also known as the coffee bean) from its outer layer, which is called the pulp. The pulp is either discarded, or kept aside for other uses, such as being repurposed as compost.
+
+At this stage, the coffee seed still has mucilage on it. Mucilage is a sticky, sugary layer that is difficult to remove from the coffee seed. In order to remove it, the coffee seeds undergo a fermentation stage. Fermentation happens in all processing methods. In the washed process, it is used to soften the miculage, making it easier to remove. The fermentation stage occurs in large tanks, usually found in a shaded area. On farms with higher end equipment, these tanks can be humidity and temperature controlled for better consistency. It is only after about 12 to 24 hours of fermentation -- once the seeds are no longer sticky from the mucilage -- that the washing stage begins
+
+During the washing stage, the coffee is submerged in fresh water. While submerged, it is agitated, leaving the seed clean in its parchment layer. The resulting water, which is murky from the mucilage it contains, is drained and safely discarded. The washing process is often repeated several times. Every time it is repeated, more of the mucilage is removed, and the resulting seed is left even cleaner. Coffees referred to as double washed simply go through the washing stage twice. 
+
+It is important to note that the washing process is incredibly water intensive and with more repetition of the washing stage comes more water usage. For this reason, washing is often limited to one to three repetitions, even as some murkiness can remain after even more stages.
+
+After being washed, the seeds and their parchment is then put out to dry and regularly tossed, a process that lasts anywhere from 10 to 20 days. Once the seeds have reached an internal moisture of about 11%, they are then sent to a dry mill, where the parchment is removed and the coffee is stored until is is ready for export.
+
+It's important to note that processing wildly differs from region to region. In some countries, most notably in Africa, farmers will bring their whole coffee fruits to washing stations to be processed. In other regions, the coffee is processed directly on the farm. This explanation of washed coffee is meant to explain the general concept and might differ from the exact methods used on the farm or washing station pertaining to the coffee you are browsing.","The washed process consists of rinsing, depulping, fermentation and one or several stages of washing. The fermentation process will generally last between 24 and 48 hours. This water intensive process is known for bringing out the true flavor of the bean."
+2,2017-09-19 00:17:24.618,2020-04-30 19:07:44.162,Dry/Natural,"Also known as Natural coffee processing, Dry Processing is the oldest of all modern coffee processing methods. It is common especially in Brazil and Ethiopia, but has gained traction over the world as producers are attracted to both the taste characteristics it can bring to their coffee and the reduced water usage when compared to the washed process. In this processing method, 
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, cherries are cleaned and sorted. At this stage, any over-ripe, under-ripe, or defective fruits are sorted out. 
+
+Then, the whole cherries are laid out to dry. During the drying phase, fermentation occurs in the fruit, giving this type of coffee the taste it is known for: bold fruit flavours, and a slight boozyness.  Throughout the process, the cherries are constantly monitored, as any mold occurance could severely affect the taste of the final product. 
+
+In some cases, cherries are separated depending on which stage of drying they are at and will be transported to another surface at each of these stages. This is done to increase uniformity and control of the drying process.
+
+Once the fruit have reached an internal moisture of about 11%, they are sent to a dry mill. There, they are put through a hulling machine, which separates the seed from the fruit and its parchment. Once the seeds are separated, they are bagged and readied for shipment.
+
+As with all processing methods, the process can vary quite a bit from region to region. To accellerate the drying, some producers will put the coffee through a mechanical dryer, though this is not common in specialty coffee. A common practice however is to use a mechanical dryer to execute a fraction of the drying process.",The dry process consists of drying and concurrent fermentation. The fermentation of the fruit while still on the bean creates bold fruity and slightly boozy flavors.
+3,2017-09-19 00:17:24.621,2020-04-30 19:07:44.169,Pulped Natural,"Pulped naturals get their name from the combination of elements from both the dry (natural) process and the washed process. Pulped naturals are common in Brazil, and are known for a fuller body than a washed coffee might have, with a slightly cleaner taste than typical dry process coffees. 
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, coffee is rinsed and sorted, keeping only the ripest, cleanest fruit. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects. 
+
+At this stage, the skin is removed from the fruit using a mechanical scrubber, leaving the pulp on the fruit. The coffee is then put out to dry, using several different methods, which depend on the region. Most commonly, coffee is dried on covered raised beds or on patios. As in the dry process, the coffee is constantly monitored, and is rotated often to ensure evenness of the drying stage. If this isn't done, mold or overfermentation can occur. 
+
+Once the fruit have reached an internal moisture level of about 11%, they are sent to a dry mill, where they are put through a hulling machine. Through this process, the seed is separated from the rest of the fruit. It is then stored in sacks in a warehouse until it is exported. 
+
+There are many other processing techniques that might be considered variations of pulped naturals. These include the honey process, and semi-washed coffees. Processing coffee in this way is said to remove the acidity found in washed coffees, while providing a fuller body. These characteristics make these coffees especially popular for espresso beverages.","The pulped natural process consists of de-skinning the fruit, and drying it with the pulp layer of the fruit still intact. Pulped naturals will have a cleaner flavor compared to naturals while having a fuller body compared to washed coffees."
+7,2017-09-19 00:17:24.639,2020-04-30 19:07:44.197,Black Honey,"Honey process coffees have enjoyed increasing popularity in recent years. Their prized flavour profile has made it possible for producers to fetch higher prices for them, as well providing a way to reduce water usage in processing. The name honey comes from the similarly viscous and sweet mucilage layer that surrounds the seed of the coffee fruit.
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, coffee is rinsed and sorted, keeping only the ripest, cleanest fruit. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects.
+
+Then, the skin and a portion of the fruit pulp are removed using either a mechanical scrubber or a modified de-pulper. The amount of fruit removed is what differentiates black, red, yellow and white honey processes from each other. In the black honey process, close to 100% of the fruit mucilage is typically left on the seed, though naming conventions may differ based on the producing region.
+
+The coffee is then put out to dry. Black honeys take longer to dry than white, yellow, and red honeys, and they are therefore usually developed on raised ventilated beds, covered by a black tarp. This provide a slower and more controlled drying time, although the coffee must be turned over very often, as over fermentation and mold are a risk. The drying process for these coffees lasts about 15 days, giving the coffee a flavour profile that is full-bodied, and sweet, with a fruity, pulpy depth.
+
+Once the fruit have reached an internal moisture of about 11%, they are sent to a dry mill. There, they are put through a hulling machine, which separates the seed from the remaining fruit and its parchment. Once the seeds are separated, they are bagged and readied for shipment.
+
+Honey coffees are prized in taste for their increased sweetness. In addition, they present a welcome alternative to the water intensive washed process, which is becoming an increasingly important issue in coffee producing countries, where climate change and other issues have affected access to fresh water for producers. 
+
+Black honey is the most laborious and complex of the honey processes. Coffees can take up to twice as long to dry under this process, taking up precious space on raised beds for an extended period of time. Because of this, quality black honeys can fetch high prices on the market.
+","The black honey process consists of removing the skin and a portion the fruit, and drying it while still intact with almost 100% of the mucilage. Black honeys take longer to dry than white, yellow, and red honeys, and they are therefore usually developed on raised ventilated beds, covered by a black tarp. Black Honey coffees are known for being full-bodied and sweet, with a fruity, pulpy depth."
+44,2019-02-25 17:48:02.352,2020-04-30 19:07:44.211,Double Washed,"The washed process is commonly found in most of the world's coffee producing regions. Also known as wet process, it offers a consistent solution for processing coffee cherries. The washed process is separated into 3 main stages (rinsing, depulping, fermentation), as well as one or several stages of washing. In the cup, washed coffees are prized for their clarity in flavour.
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once collected, the coffee is rinsed, and the farmer performs a first quality check. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects. Following this step, the whole coffee fruit is put through a depulper. A depulper separates the seed of the fruit (also known as the coffee bean) from its outer layer, which is called the pulp. The pulp is either discarded, or kept aside for other uses, such as being repurposed as compost.
+
+At this stage, the coffee seed still has mucilage on it. Mucilage is a sticky, sugary layer that is difficult to remove from the coffee seed. In order to remove it, the coffee seeds undergo a fermentation stage. Fermentation happens in all processing methods. In the washed process, it is used to soften the miculage, making it easier to remove. The fermentation stage occurs in large tanks, usually found in a shaded area. On farms with higher end equipment, these tanks can be humidity and temperature controlled for better consistency. It is only after about 12 to 24 hours of fermentation -- once the seeds are no longer sticky from the mucilage -- that the washing stage begins
+
+During the washing stage, the coffee is submerged in fresh water. While submerged, it is agitated, leaving the seed clean in its parchment layer. The resulting water, which is murky from the mucilage it contains, is drained and safely discarded. The washing process is often repeated several times. Every time it is repeated, more of the mucilage is removed, and the resulting seed is left even cleaner. Coffees referred to as double washed simply go through the washing stage twice. 
+
+After being washed, the seeds and their parchment is then put out to dry and regularly tossed, a process that lasts anywhere from 10 to 20 days. Once the seeds have reached an internal moisture of about 11%, they are then sent to a dry mill, where the parchment is removed and the coffee is stored until is is ready for export.
+
+It's important to note that processing wildly differs from region to region. In some countries, most notably in Africa, farmers will bring their whole coffee fruits to washing stations to be processed. In other regions, the coffee is processed directly on the farm. This explanation of washed coffee is meant to explain the general concept and might differ from the exact methods used on the farm or washing station pertaining to the coffee you are browsing.","The double washed process consists of rinsing, depulping, fermentation and two stages of washing. The fermentation process will generally last between 24 and 48 hours. Washing is water intensive, consisting of submerging the coffee seed in water and agitating them to remove the mucilage. This process is known for highlighting the flavor of the bean."
+58,2020-07-30 14:45:32.909,2020-07-30 14:45:32.909,"Yeast Inoculated, Washed",,
+59,2020-08-24 14:32:48.921,2020-08-24 14:32:48.921,Aerobic Fermentation,,
+60,2020-09-12 21:47:22.455,2020-09-12 21:47:22.455,Fully Washed,,
+61,2020-09-12 22:19:44.750,2020-09-12 22:19:44.750,Washed,,
+62,2020-10-14 00:15:43.233,2020-10-14 00:15:43.233,Sugar Cane Water Process,,
+63,2020-11-01 23:09:35.349,2020-11-01 23:09:35.349,Fully Washed & Dry Fermentation For 12 24 Hrs. Washed & Dried On Raised Beds For 12 20 Days.,,
+64,2020-11-01 23:10:31.685,2020-11-01 23:10:31.685,Fully Washed & Dry Fermentation For 12 24 Hrs,,
+65,2020-12-04 03:43:26.020,2020-12-04 03:43:26.020,Low Oxygen Fermentation & Dried With Cinnamon,,
+35,2018-10-07 15:32:29.230,2018-10-07 15:32:29.230,Carbonic Maceration Natural,,
+36,2018-10-17 14:36:40.114,2018-10-17 14:36:40.114,Lactic Fermentation,,
+37,2018-10-17 14:44:25.971,2018-10-17 14:44:25.971,Anaerobic Fermentation,,
+38,2018-11-13 02:58:20.317,2018-11-13 02:58:20.317,Giling Basah,,
+40,2019-01-24 02:35:06.335,2019-01-24 02:35:06.335,Hydro Honey,,
+41,2019-02-22 03:16:25.229,2019-02-22 03:16:25.229,Mountain Water Process,,
+42,2019-02-25 14:01:07.122,2019-02-25 14:01:07.122,Swiss Water Process,,
+43,2019-02-25 14:02:58.205,2019-02-25 14:02:58.205,Swiss Water® Process,,
+45,2019-03-17 15:28:00.597,2019-03-17 15:28:00.597,Semi Washed,,
+46,2019-03-20 12:52:17.189,2019-03-20 12:52:17.189,Coco Natural,,
+47,2019-05-12 23:30:29.310,2019-05-12 23:30:29.310,Washed Ethyl Acetate,,
+48,2019-05-14 15:58:40.161,2019-05-14 15:58:40.161,Dulce Natural,,
+49,2019-06-30 14:17:01.374,2019-06-30 14:17:01.374,Sugarcane E.A. (Ethyl Acetate),,
+50,2019-08-07 21:06:28.003,2019-08-07 21:06:28.003,Yellow Washed,,
+51,2019-08-11 23:38:21.152,2019-08-11 23:38:21.152,Monsooned Malabar,,
+52,2019-08-12 20:48:45.945,2019-08-12 20:48:45.945,Natural ,,
+4,2017-09-19 00:17:24.625,2020-04-30 19:07:44.176,White Honey,"Honey process coffees have enjoyed increasing popularity in recent years. Their prized flavour profile has made it possible for producers to fetch higher prices for them, as well providing a way to reduce water usage in processing. The name honey comes from the similarly viscous and sweet mucilage layer that surrounds the seed of the coffee fruit. 
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, coffee is rinsed and sorted, keeping only the ripest, cleanest fruit. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects.
+
+Then, the skin and a portion of the fruit pulp are removed using either a mechanical scrubber or a modified de-pulper. The amount of fruit removed is what differentiates black, red, yellow and white honey processes from each other. In the white honey process, about 25% of the fruit mucilage is typically left on the seed, though naming conventions may differ based on the producing region.
+
+The coffee is then put out to dry, usually in full sunlight. This is possible with white honeys because the amount of mucilage on the fruit is so minimal that the risk for over fermentation is very low. The drying process for these coffees lasts about 6 days, giving the coffee a similar delicateness to washed process coffees.
+
+Once the fruit have reached an internal moisture of about 11%, they are sent to a dry mill. There, they are put through a hulling machine, which separates the seed from the remaining fruit and its parchment. Once the seeds are separated, they are bagged and readied for shipment. 
+
+Honey coffees are prized in taste for their increased sweetness. In addition, they present a welcome alternative to the water intensive washed process, which is becoming an increasingly important issue in coffee producing countries, where climate change and other issues have affected access to fresh water for producers.
+","The white honey process consists of removing the skin and a portion the fruit, and drying it while still intact with 25% of the mucilage. The coffee is then put out to dry, usually in full sunlight which is possible because of how little mucilage is on the fruit, lowering the risk of fermentation. The drying process for these coffees lasts about 6 days, giving the coffee a similar delicateness to washed process coffees."
+5,2017-09-19 00:17:24.630,2020-04-30 19:07:44.183,Yellow Honey,"Honey process coffees have enjoyed increasing popularity in recent years. Their prized flavour profile has made it possible for producers to fetch higher prices for them, as well providing a way to reduce water usage in processing. The name honey comes from the similarly viscous and sweet mucilage layer that surrounds the seed of the coffee fruit.
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, coffee is rinsed and sorted, keeping only the ripest, cleanest fruit. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects.
+
+Then, the skin and a portion of the fruit pulp are removed using either a mechanical scrubber or a modified de-pulper. The amount of fruit removed is what differentiates black, red, yellow and white honey processes from each other. In the yellow honey process, about 50% of the fruit mucilage is typically left on the seed, though naming conventions may differ based on the producing region.
+
+The coffee is then put out to dry, usually in full sunlight. This is possible with yellow honeys because the amount of mucilage on the fruit is minimal  enough that the risk for over fermentation is very low. The drying process for these coffees lasts about 8 days, giving the coffee a flavour profile that is apricot-like, light, and floral.
+
+Once the fruit have reached an internal moisture of about 11%, they are sent to a dry mill. There, they are put through a hulling machine, which separates the seed from the remaining fruit and its parchment. Once the seeds are separated, they are bagged and readied for shipment.
+
+Honey coffees are prized in taste for their increased sweetness. In addition, they present a welcome alternative to the water intensive washed process, which is becoming an increasingly important issue in coffee producing countries, where climate change and other issues have affected access to fresh water for producers.","The yellow honey process consists of removing the skin and a portion the fruit, and drying it while still intact with 50% of the mucilage. The coffee is then put out to dry in full sunlight - possible with yellow honeys because the amount of mucilage on the fruit lowers the risk of fermentation. The drying process for these coffees lasts about 8 days. Yellow Honey coffees are known for their apricot-like, floral flavors."
+6,2017-09-19 00:17:24.634,2020-04-30 19:07:44.190,Red Honey,"Honey process coffees have enjoyed increasing popularity in recent years. Their prized flavour profile has made it possible for producers to fetch higher prices for them, as well providing a way to reduce water usage in processing. The name honey comes from the similarly viscous and sweet mucilage layer that surrounds the seed of the coffee fruit.
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, coffee is rinsed and sorted, keeping only the ripest, cleanest fruit. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects.
+
+Then, the skin and a portion of the fruit pulp are removed using either a mechanical scrubber or a modified de-pulper. The amount of fruit removed is what differentiates black, red, yellow and white honey processes from each other. In the red honey process, about 75% of the fruit mucilage is typically left on the seed, though naming conventions may differ based on the producing region.
+
+The coffee is then put out to dry. Red honeys take longer to dry than white and yellow honeys, and they are therefore usually developed in cloud clover, to provide a slower and more controlled drying time. This is essential in these coffees, as over fermentation and mold are a risk. The drying process for these coffees lasts about 12 days, giving the coffee a flavour profile that is sweet and syrupy.
+
+Once the fruit have reached an internal moisture of about 11%, they are sent to a dry mill. There, they are put through a hulling machine, which separates the seed from the remaining fruit and its parchment. Once the seeds are separated, they are bagged and readied for shipment.
+
+Honey coffees are prized in taste for their increased sweetness. In addition, they present a welcome alternative to the water intensive washed process, which is becoming an increasingly important issue in coffee producing countries, where climate change and other issues have affected access to fresh water for producers.","The red honey process consists of removing the skin and a portion the fruit, and drying it while still intact with 75% of the mucilage. Red honeys take longer to dry than white and yellow honeys, around 12 days, and are therefore developed in cloud clover. Red Honey coffees are known for their sweet and syrupy flavors."
+14,2017-11-25 21:46:54.932,2020-04-30 19:07:44.204,Honey,"Honey process coffees have enjoyed increasing popularity in recent years. Their prized flavour profile has made it possible for producers to fetch higher prices for them, as well providing a way to reduce water usage in processing. The name honey comes from the similarly viscous and sweet mucilage layer that surrounds the seed of the coffee fruit.
+
+On the farm, coffee cherries are handpicked once they have achieved peak ripeness. Once picked, coffee is rinsed and sorted, keeping only the ripest, cleanest fruit. Floaters are often sorted out at this step, as this characteristic can be a sign of unripeness and defects.
+
+Then, the skin and a portion of the fruit pulp are removed using either a mechanical scrubber or a modified de-pulper. The amount of fruit removed is what differentiates black, red, yellow and white honey processes from each other. In essence, the darker the colour, the more pulp is left on the fruit.
+
+The coffee is then put out to dry, using several different methods, which depend on the region. Most commonly, coffee is dried on covered raised beds or on patios. As in the dry process, the coffee is constantly monitored, and is rotated often to ensure evenness of the drying stage. If this isn't done, mold or over fermentation can occur. This drying stage can last anywhere from 6-18 days. The more pulp is left on the seed, the longer the coffee will take to dry.
+
+Once the fruit have reached an internal moisture of about 11%, they are sent to a dry mill. There, they are put through a hulling machine, which separates the seed from the remaining fruit and its parchment. Once the seeds are separated, they are bagged and readied for shipment.
+
+Honey coffees are prized in taste for their increased sweetness. In addition, they present a welcome alternative to the water intensive washed process, which is becoming an increasingly important issue in coffee producing countries, where climate change and other issues have affected access to fresh water for producers.
+","The honey process consists of removing the skin and a portion the fruit, and drying it while still intact with some of the mucilage. The drying process can take 6-18 days, taking longer the more mucilage is left intact. Honey coffees are known for their sweeter profile."
