@@ -3,6 +3,7 @@
 **Table of contents**
 - [What is this?](#what-is-this)
 - [What was Firstbloom?](#what-was-firstbloom)
+- [Special thanks](#special-thanks)
 
 ## What is this?
 This is a collection of coffee data built while Firstbloom was operational. It contains CSVs of the interesting/important data around which coffees a roaster had, the varieties the coffee contained, the tasting notes of those coffees and where they were sourced from in the world.
@@ -16,6 +17,14 @@ After it launched early 2018, and up until it shutdown in Jan 2021, it gained a 
 
 All wasn't lost, however, as these data have already been used in a book (The Physics of Filter Coffee by [Jonathan Gagné](https://coffeeadastra.com/)), and is--to my knowledge--still the largest consumer specialty coffee data set out there. Hopefully it can continue to be used to inspire new projects!
 
+## Special thanks
+These data would not have been collected without my co-founders, volunteers and users of Firstbloom. I can't name all the users, unfortunately, but I can name a few key people who helped make this possible.
+
+- [Stefanie Viens](https://www.stefanie.works/) (co-founder)
+- [Vithu Namasivayam](https://www.linkedin.com/in/vithunamasivayam/) (co-founder)
+- [Sami Jaber](https://github.com/samijaber) (technical volunteer/user)
+- [Sean Winikoff](https://github.com/Seanwinikoff) (data collection volunteer/user)
+- [Max Roderbourg](https://www.instagram.com/maxroderbourg) (data collection volunteer/user)
 
 ## License
 
